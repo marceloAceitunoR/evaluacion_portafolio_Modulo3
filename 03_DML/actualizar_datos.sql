@@ -1,0 +1,1 @@
+UPDATE Cliente SET direccion = 'Nueva Dirección 456' WHERE id_cliente = 1;

@@ -1,0 +1,1 @@
+DELETE FROM Pedido WHERE id_pedido = 100 AND fecha < '2025-01-01';
